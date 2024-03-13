@@ -1,0 +1,1 @@
+I have been using java for a number of years now. And I hava created some sample projects out of it such as ATM machines, Calculators and Genetic algorithms. 
